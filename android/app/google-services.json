@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283636591280",
+    "project_id": "volun-tek",
+    "storage_bucket": "volun-tek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283636591280:android:6e04be248fe5fcb78ee975",
+        "android_client_info": {
+          "package_name": "com.volunteer.tek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0FqsQdbQAo8UO98pQ37USPsxlvZcWfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
